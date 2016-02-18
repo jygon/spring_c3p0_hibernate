@@ -1,0 +1,2 @@
+transaction manager: org.springframework.orm.hibernate4.HibernateTransactionManager
+session factory: org.springframework.orm.hibernate4.LocalSessionFactoryBean
